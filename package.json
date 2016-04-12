@@ -1,13 +1,13 @@
 {
-  "name": "employee-scheduling-ui",
-  "version": "0.0.0",
-  "description": "An UI component for Employee Scheduling application that makes employee scheduling management easy, fast and mobile.",
+  "name": "privacy-monitor",
+  "version": "1.0.0",
+  "description": "Privacy Monitor van Privacy Compliance Collective",
   "private": true,
   "author": {
-    "name": "Martin Micunda",
-    "url": "http://martinmicunda.com"
+    "name": "Kim Brandwijk",
+    "url": "http://www.privacycc.nl"
   },
-  "homepage": "http://martinmicunda.github.io/employee-scheduling-ui/dist",
+  "homepage": "http://www.privacycc.nl",
   "scripts": {
     "start": "gulp serve",
     "build": "gulp build",
@@ -32,17 +32,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/martinmicunda/employee-scheduling-ui"
+    "url": "https://github.com/brainsoftltd/privacy-monitor"
   },
   "bugs": {
-    "url": "https://github.com/martinmicunda/employee-scheduling-ui/issues"
+    "url": "https://github.com/brainsoftltd/privacy-monitor/issues"
   },
-  "keywords": [
-    "employee scheduling",
-    "mm",
-    "es6",
-    "scheduler"
-  ],
+  "keywords": [],
   "devDependencies": {
     "del": "2.0.2",
     "jspm": "0.16.13",
@@ -130,6 +125,7 @@
       "fullcalendar": "npm:fullcalendar@2.5.0",
       "fullcalendar-scheduler": "npm:fullcalendar-scheduler@1.1.0",
       "json": "github:systemjs/plugin-json@0.1.0",
+      "material-design-color-palette": "npm:material-design-color-palette@^1.1.0",
       "ng-bs-animated-button": "github:jeremypeters/ng-bs-animated-button@2.0.3",
       "ng-file-upload": "npm:ng-file-upload@7.2.0",
       "si-table": "github:simplicitylabs/si-table@0.2.3",
